@@ -13,10 +13,10 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://example.com/your-repository.git
+   git clone git@github.com:pinkx1/GitHubNightwatchAutotests.git
 2. Перейдите в папку проекта:
    ```bash 
-   cd your-repository
+   cd GitHubNightwatchAutotests
 3. Установите зависимости:
     ```bash 
    npm install
