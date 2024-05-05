@@ -28,6 +28,7 @@
    CORRECT_USERNAME=your_username
    CORRECT_PASSWORD=your_password
    INCORRECT_PASSWORD=wrong_password
+   GITHUB_TOKEN=your_token
 
 ### Конфигурация Nightwatch.js
 
