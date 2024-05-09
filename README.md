@@ -30,18 +30,6 @@
    INCORRECT_PASSWORD=wrong_password
    GITHUB_TOKEN=your_token
 
-### Конфигурация Nightwatch.js
-
-Файл nightwatch.conf.js содержит конфигурацию Nightwatch.js и включает следующие настройки:
-
-src_folders: Путь, где расположены тесты (в нашем случае — nightwatch/test).
-page_objects_path: Путь к POM (в нашем случае — nightwatch/pages).
-test_workers: Включает параллельное выполнение тестов с параметром workers для автоматического определения количества воркеров.
-test_settings: Определяет параметры запуска тестов в браузерах Chrome и Firefox.
-default: Использует браузер Chrome по умолчанию.
-firefox: Настройки для браузера Firefox.
-chrome: Настройки для браузера Chrome.
-
 ### Запуск тестов
 
 **Запуск одного конкретного теста**
